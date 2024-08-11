@@ -1,0 +1,21 @@
+{
+    "id": "empire",
+    "title": "Empire",
+    "description": "",
+    "authors": [
+      {
+      "name": "DEDEN"
+      }
+    ],
+    "scripts": [
+        "scripts/empire.js"
+    ],
+    "styles": [
+      "styles/styles.css"
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+      "minimum": "11",
+      "verified": "12"
+    }
+  }
